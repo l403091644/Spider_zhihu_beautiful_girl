@@ -1,0 +1,2 @@
+# Spider_zhihu_beautiful_girl
+使用百度云的人脸识别来抓取知乎上的美女图片
