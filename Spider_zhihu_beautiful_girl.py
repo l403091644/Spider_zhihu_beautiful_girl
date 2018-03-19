@@ -28,7 +28,7 @@ BEAUTY_THRESHOLD = 20
 AUTHORIZATION = "oauth c3cef7c66a1843f8b3a9e6a1e3160e20"
 #以下皆无需改动
 #每次请求知乎的讨论列表长度，不建议设定太长，注意节操
-LIMIT = 50
+LIMIT = 5
 #这是话题『美女』的 ID，其是『颜值』（20013528）的父话题
 SOURCE = "19552207"
 #SOURCE = "20013528"
